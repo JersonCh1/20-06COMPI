@@ -1,0 +1,4 @@
+fn main() int {
+    x int = "texto";
+    return 0;
+}
